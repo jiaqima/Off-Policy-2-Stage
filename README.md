@@ -16,6 +16,7 @@ The "Cross-Entropy", "1-IPS", and "2-IPS" objectives respectively correspond to 
 
 ## Cite
 
+```
 @inproceedings{ma2020off,
   title={Off-policy Learning in Two-stage Recommender Systems},
   author={Ma, Jiaqi and Zhao, Zhe and Yi, Xinyang and Yang, Ji and Chen, Minmin and Tang, Jiaxi and Hong, Lichan and Chi, Ed H},
@@ -23,3 +24,4 @@ The "Cross-Entropy", "1-IPS", and "2-IPS" objectives respectively correspond to 
   pages={463--473},
   year={2020}
 }
+```
