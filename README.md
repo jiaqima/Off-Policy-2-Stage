@@ -10,7 +10,8 @@ Jiaqi Ma, Zhe Zhao, Xinyang Yi, Ji Yang, Minmin Chen, Jiaxi Tang, Lichan Hong, E
 See `environment.yml`. Run `conda op2s_env create -f environment.yml` to install the required packages.
 
 ## Run the code
-Example: `python run.py --loss_type loss_2s`
+Example: `python run.py --loss_type loss_2s`.
+
 The "Cross-Entropy", "1-IPS", and "2-IPS" objectives respectively correspond to "loss_ce", "loss_ips", and "loss_2s" in the code.
 
 ## Cite
