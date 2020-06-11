@@ -14,6 +14,8 @@ Example: `python run.py --loss_type loss_2s`.
 
 The "Cross-Entropy", "1-IPS", and "2-IPS" objectives respectively correspond to "loss_ce", "loss_ips", and "loss_2s" in the code.
 
+The MovieLens-1M dataset can be found on the [GroupLens website](https://grouplens.org/datasets/movielens/1m/).
+
 ## Cite
 
 ```
